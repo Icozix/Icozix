@@ -24,7 +24,7 @@ Currently working on **Project World** while improving my programming skills and
 - 💻 Build real-world software projects
 - 🎮 Learn Unreal Engine 5
 - 🌍 Contribute to Open Source
-- 💼 Secure a Software Development Internship
+- 💼 Secure a Software or Game Development Internship
 
 ---
 
