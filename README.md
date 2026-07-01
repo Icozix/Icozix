@@ -50,6 +50,11 @@ Currently working on **Project World** while improving my programming skills and
 ![Game Programming](https://img.shields.io/badge/Game%20Programming-FF6F00?style=for-the-badge)
 ![Game Design](https://img.shields.io/badge/Game%20Design-8E24AA?style=for-the-badge)
 
+### 🤖 Artificial Intelligence
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
 ### 🎨 3D
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
